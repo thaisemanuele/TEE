@@ -1,0 +1,2605 @@
+courageously 5.0
+plaguey -2.5
+fleetly 1.875
+lamentably -5.0
+frumpishly 2.5
+invisibly -1.875
+flippantly 2.5
+to the letter 2.5
+accurately 2.5
+fecklessly 2.1875
+befittingly 2.5
+overtly 2.5
+unevenly 1.25
+victoriously 5.0
+gushingly 2.5
+with ambition 3.125
+in one case 1.25
+afar 1.25
+lamely 1.25
+doubly 1.5625
+in point of fact 2.5
+pyramidically 0.625
+coterminously 2.5
+anomalously 2.5
+in the air 1.875
+lyrically 2.5
+double -0.2083335
+much 3.57142857143
+compulsorily 2.5
+to a lesser degree -2.5
+uninvitedly 1.875
+long-windedly 2.5
+hebdomadally -2.5
+unrelentingly 2.5
+fearlessly 5.0
+sloppily 2.5
+killingly 0.625
+motherly 1.25
+elegantly 5.0
+protractedly -0.625
+spicily 2.5
+optimally 3.125
+illiberally 0.625
+completely 4.84450923227
+especially 0.625
+conspicuously 1.875
+contumeliously 3.125
+stormily -1.875
+alike 2.5
+meagerly -0.625
+slackly 2.5
+silkily 1.875
+medicinally 1.875
+derisorily 3.125
+optimistically 5.0
+flush 0.625
+owlishly 2.5
+frontward 1.25
+for keeps 0.625
+laughably 1.875
+intermediately -0.625
+honourably 2.5
+searchingly 1.875
+intuitively 1.875
+unquestioningly 2.5
+frenetically -1.875
+macroscopically -3.125
+meretriciously 2.5
+mincingly 2.5
+with adroitness 3.125
+terrestrially 2.5
+ploddingly 2.5
+visually 2.5
+imperatively 1.875
+laboriously 2.5
+surlily 2.5
+descriptively 1.875
+infectiously 1.875
+monaurally 2.5
+nuttily 1.875
+without humor 2.5
+publicly 0.625
+unharmoniously 3.125
+morosely 2.5
+explicitly 1.875
+toppingly 5.0
+penitentially -5.0
+easily 5.0
+intrinsically 3.125
+untruthfully 2.5
+unpretentiously 3.125
+baldly 2.5
+daringly 2.1875
+rather -1.5625
+like royalty 1.875
+observantly 3.125
+obstinately -1.875
+insufficiently -1.25
+marginally 1.875
+loosely -5.0
+with politeness 1.875
+surprisingly 5.0
+only too 0.625
+slapdash 1.875
+tactically 1.25
+in camera -0.625
+morbidly -0.625
+deftly 2.1875
+jejunely 1.875
+swiftly 5.0
+truly 1.875
+indescribably -0.625
+nasally 2.5
+passively 1.875
+mechanistically 2.5
+reluctantly -5.0
+on the side -1.25
+below the belt 2.5
+starkly 1.875
+majestically 3.125
+whacking -2.5
+unsympathetically 2.5
+in a sense 2.5
+polyphonically 1.875
+grandly 1.875
+here 0.3125
+parochially 2.5
+officiously 2.5
+preciously -1.25
+aptly 3.125
+by design 1.875
+in earnest 2.5
+deviously 1.875
+disregarding -3.125
+tensely -5.0
+biyearly 1.25
+in both ears 2.5
+gregariously 2.5
+unreproducibly 2.5
+super 0.625
+complexly 1.25
+cheerily 3.125
+meticulously 3.125
+smugly 3.125
+inaudibly 2.5
+for good measure 0.625
+dourly 1.875
+acoustically 2.5
+undecipherably 2.5
+steeply 1.875
+familiarly 1.875
+inconveniently 1.875
+creatively 1.875
+needlessly -3.75
+so-so 2.5
+clannishly 2.5
+astutely 1.875
+accidentally 1.666666667
+regrettably -4.375
+vivaciously 5.0
+wittingly 1.875
+on request -0.625
+richly 1.458335
+catastrophically -3.125
+meagrely -0.625
+gropingly 3.125
+exactly 5.0
+bureaucratically 2.5
+although 2.5
+tip-top 1.25
+viscerally 3.125
+monosyllabically 2.5
+permanently 0.625
+withal -3.125
+underneath -0.9375
+impiously 2.5
+nowhere -0.625
+punitorily 1.875
+terribly 2.1875
+barbarously 2.5
+under -0.390625
+inherently 1.875
+floridly 2.5
+obscurely 1.875
+dogmatically 0.625
+murderously -5.0
+transitively 2.5
+seductively 3.75
+unassailably 2.5
+mockingly 2.5
+penuriously 2.5
+indecisively -1.875
+first and foremost 3.125
+admirably 5.0
+dimly 1.5625
+to at 2.5
+wistfully 2.5
+scrumptiously -1.25
+damned 2.5
+eruditely 2.5
+unbeknownst -0.625
+preternaturally 1.875
+supernaturally 1.875
+haltingly 2.5
+thickly -1.25
+refreshingly 3.4375
+discordantly 3.125
+sanctimoniously 2.5
+emulously 1.875
+lustily 3.125
+dreamily 1.875
+quixotically 2.5
+inattentively 3.125
+lief 2.5
+as such 3.125
+with impatience 2.5
+artificially -4.375
+overly 0.625
+unrepentantly 2.5
+sensationally 5.0
+snobbishly 2.5
+unproductively 1.875
+sportively 1.875
+necessarily 2.1875
+plaguy -2.5
+suspiciously -5.0
+imploringly 2.5
+higgledy-piggledy 2.5
+irrelevantly 2.5
+ornately 1.875
+exclusively -1.875
+regimentally 2.5
+presciently -1.25
+accusingly 2.5
+right on 0.625
+cheek by jowl 1.875
+uncomfortably -3.125
+whiningly 1.875
+developmentally 1.875
+trustingly 3.125
+arrogantly 1.875
+early 1.5625
+chivalrously 2.5
+softly 5.0
+ungracefully -1.25
+prematurely 2.5
+undoubtedly 2.5
+first and last 0.625
+gratifyingly 5.0
+continuously 1.25
+ruggedly 3.125
+ceremonially 2.1875
+creditably 1.875
+uneasily -5.0
+irreverently 2.1875
+hectically 3.125
+consecutively 1.875
+fancifully 1.875
+nervously -5.0
+nevermore 1.25
+raving 2.5
+drily -1.25
+rowdily 2.5
+gruffly 3.75
+sottishly 2.5
+perversely -2.8125
+soon 5.0
+operationally 1.25
+personally 0.25
+anisotropically 2.5
+incompletely -3.125
+for anything 1.25
+dexterously 1.875
+ruthlessly 1.875
+skilfully 2.5
+garrulously 2.5
+surprisedly 5.0
+punitively 1.875
+sadly -5.0
+energetically 3.125
+servilely 2.5
+radioactively 1.875
+with spite 1.875
+sinusoidally 2.5
+unjustly 1.875
+marvelously 5.0
+piteously 2.5
+overpoweringly -3.125
+frigidly -3.125
+unexpectedly -5.0
+some 1.875
+point-blank 1.25
+constantly -0.625
+therefor 0.625
+defectively 1.875
+bluntly 2.5
+purposely 1.875
+with formality 0.625
+inconsequently -1.875
+annually 5.0
+furtively 2.5
+importunately 2.5
+bewilderedly 2.5
+like the devil -1.25
+seasonably 0.625
+geographically 2.5
+for the asking -0.625
+trepidly -5.0
+afterwards 5.0
+temptingly 3.75
+honestly 5.0
+awry 3.125
+yearningly 2.5
+tastelessly -4.375
+yearly 5.0
+sure 2.5
+rigidly 1.875
+ruinously -0.625
+comprehensively 1.875
+willy-nilly -1.5625
+esthetically 1.25
+without questioning 2.5
+plenarily 2.5
+secretively 2.5
+discontentedly 1.875
+by nature 1.25
+never again 1.25
+or so 1.875
+in secret 1.25
+goddam -2.5
+more and more -0.625
+stodgily 2.5
+with bitterness 1.875
+knee-deep -1.25
+full 1.25
+peculiarly 2.1875
+sparsely 1.875
+pedagogically 2.5
+autocratically 2.1875
+microscopically 2.5
+desperately -1.5625
+unnecessarily 1.875
+attentively 3.125
+shrewdly 1.875
+in the first place 1.25
+brotherly 2.5
+soft 1.875
+stragglingly -1.25
+sparely 1.875
+carnally 2.5
+implausibly -3.75
+vividly 2.5
+straightaway -2.5
+convivially 3.125
+indiscriminately 1.875
+neurobiological 2.5
+to the limit -1.875
+wrathfully -5.0
+lusciously -1.25
+off the record -3.125
+fascinatingly 2.5
+far and away 1.25
+coldly 1.25
+deceivingly -2.5
+superbly 5.0
+fanatically 2.5
+rampantly 1.875
+as a matter of fact 2.5
+weirdly 1.875
+geometrically 2.5
+undependably 2.5
+single-handedly -1.875
+vulnerably 1.875
+democratically 1.25
+sumptuously 3.125
+sequentially 1.875
+eloquently 1.875
+transversely 1.875
+cursively 1.875
+decent 2.5
+sedately 2.5
+like an expert 1.875
+superficially 1.875
+famously 2.1875
+pathetically 2.1875
+contumaciously 1.875
+conclusively 0.625
+neurotically 1.875
+honorably 2.5
+uppishly 2.5
+slightly 2.5
+moodily 2.5
+worthlessly 1.875
+extraordinarily -2.5
+slangily 2.5
+materially 0.3125
+farcically 2.5
+every bit -0.625
+flatly 2.5
+indiscreetly -2.5
+by experimentation 0.625
+half-heartedly 1.875
+decently 2.5
+brilliantly -3.125
+forgivably -0.625
+theologically 1.875
+placatingly 1.875
+strategically 2.5
+with inspiration -1.25
+impersonally 1.25
+with happiness 2.5
+nothing 0.625
+shamefacedly -5.0
+faithfully 5.0
+wantonly 2.1875
+disbelievingly 2.5
+enough 1.875
+unsportingly 1.875
+for that matter 0.625
+tidily 3.125
+violently -5.0
+to be precise 3.125
+impromptu 1.25
+sweepingly 1.875
+without expression 1.875
+tastefully 1.875
+through empirical ob 2.5
+forlornly -5.0
+scoffingly 3.125
+comically 3.125
+influentially 0.625
+foxily 2.5
+as if by magic 1.875
+hungrily -5.0
+semantically 0.625
+acutely 3.125
+impossibly -1.875
+frightfully 1.875
+beyond question 2.5
+better 3.75
+maximally -0.625
+irregularly -1.25
+three times -0.625
+composedly 1.25
+liberally 2.8125
+small-mindedly 0.625
+falteringly -1.875
+so far 1.25
+unethically 1.875
+philanthropically 2.5
+cajolingly 2.5
+motionlessly 1.875
+symbolically 1.875
+aesthetically 1.25
+desolately -3.75
+domineeringly 1.875
+out of view -2.5
+youthfully 1.875
+tumultuously 1.875
+plaintively -5.0
+unhygienically 2.5
+funny 2.8125
+in everyones though 1.875
+tortuously 2.5
+surreptitiously 2.5
+becomingly 2.5
+intrepidly 5.0
+bitterly -1.25
+six times -0.625
+confessedly -1.25
+logarithmically 2.5
+doubtless 2.5
+counterintuitively 2.5
+luxuriantly 1.25
+pertinaciously 2.5
+cleanly 3.125
+perfidiously 2.5
+not fluently 2.5
+ridiculously 1.875
+tellingly 1.875
+determinedly 2.5
+reminiscently 1.875
+earnestly 5.0
+contradictorily 1.25
+forrad 1.25
+injudiciously 2.5
+calculatingly 1.875
+ferociously 1.25
+despondently -5.0
+uncertainly 1.25
+harum-scarum 1.875
+magnificently 3.4375
+disgustedly -5.0
+ordinarily 0.625
+leisurely 1.25
+suitably 2.5
+lewdly -2.5
+imperiously 2.5
+fiendishly -3.125
+for all intents and 0.625
+pornographically 1.875
+externally 2.5
+illogically 1.875
+spherically 3.125
+plenty 1.875
+instructively 2.5
+signally 1.875
+extempore 1.25
+schismatically 2.5
+scrupulously 1.25
+lawfully -0.625
+callously -1.25
+volitionally 2.5
+sultrily 2.5
+cross-legged -1.25
+decorously 2.5
+constrainedly 2.5
+weakly -5.0
+phenomenally -0.625
+with boldness 2.5
+unquestionably 0.9375
+kindly 5.0
+forthwith -2.5
+out of wedlock -2.5
+sonorously 2.5
+currishly 2.5
+aristocratically 1.875
+within 4.66666666667
+glossily 2.5
+modishly 1.875
+pervasively 2.5
+fatefully 2.5
+talkatively 2.5
+in check -3.125
+deeply 1.25
+sordidly 0.625
+firmly 0.9375
+luxuriously 2.1875
+captivatingly 2.5
+glaringly 2.5
+screakily 2.5
+designedly 1.875
+with love 1.875
+on the contrary -3.125
+mystically 1.875
+one of these days -3.125
+barefoot -1.25
+bleakly -2.5
+adulterously 1.875
+unpredictably 3.125
+at the most -0.625
+hydraulicly 2.5
+such 0.625
+indistinctly 1.25
+every now and then -2.5
+forthright 0.625
+theatrically 1.875
+publically 0.625
+exaggeratedly 1.875
+uncontroversially 0.625
+sixfold -0.625
+as it is -2.5
+shallowly 1.875
+hand and glove 1.875
+enquiringly 1.875
+disastrously 2.5
+inaccurately 2.5
+angelically 2.5
+awful 1.875
+forwards 1.25
+amiss 1.25
+radically 2.5
+real 1.25
+hotfoot -1.25
+mutually 1.875
+sacrilegiously 2.5
+controversially 1.875
+memorably 1.875
+whimsically 1.875
+thirstily -5.0
+dubiously 2.1875
+inflexibly 1.875
+minutely 2.5
+contrariwise -3.125
+metabolically 0.625
+ironically -2.1875
+uncontrollably 1.875
+hazardously 1.875
+false 2.5
+by rights 1.875
+intensively 1.875
+topsy-turvy 1.25
+conveniently 1.875
+damnably 2.5
+unswervingly 2.1875
+scrappily 1.875
+beseechingly 2.5
+without checking 2.5
+abaxially 2.5
+boyishly -0.625
+garishly 1.875
+rarely -5.0 <except>
+domestically 1.25
+mistily 1.5625
+uselessly 2.5
+validly 2.5
+expressly 1.25
+beautifully 3.125
+drowsily 2.5
+hence 0.2083335
+fugally -1.875
+smartly 2.708335
+warily 2.5
+inexpertly 2.5
+luckily -1.25
+sparingly -0.625
+wholly 2.5
+perplexedly 2.5
+soulfully 2.5
+roundly 1.875
+bolt 1.875
+haphazardly 1.875
+resoundingly 2.5
+anon -1.25
+gaspingly 2.5
+directly 4.84450923227
+outrageously -1.875
+in darkness 0.625
+in all likelihood 0.625
+venally 2.5
+languorously -5.0
+pertinently -0.625
+cryptically 2.5
+laughingly 1.25
+unprecedentedly 2.5
+imposingly 3.125
+urgently 1.25
+immeasurably 0.9375
+unimpressively 2.5
+warm 2.5
+once and for all 0.625
+bawdily 2.5
+categorically 2.5
+dishonestly 2.5
+moonily 1.875
+pretty 1.875
+martially 2.5
+dispassionately 2.5
+ostensibly 2.5
+inoffensively 1.25
+without moderation 1.875
+depressingly -1.875
+naturally 0.78125
+locally 0.625
+clamorously 1.25
+unthinkingly 2.5
+topsy-turvily -1.875
+justifiably 3.125
+squarely 1.25
+smarmily 2.5
+effusively 2.5
+manly 1.25
+antagonistically 2.5
+sullenly 1.875
+chemically 2.5
+to a man 1.25
+tentatively 1.875
+with authority 1.875
+to the hilt -1.875
+understandingly 0.625
+unstintingly 2.5
+cosmetically -0.625
+wrongly -2.1875
+unromantically 2.5
+fabulously 2.5
+topographically 1.875
+linearly 1.875
+pneumatically 1.875
+crushingly 1.875
+faultlessly -2.5
+unassumingly 2.5
+tastily 1.875
+intolerantly 2.1875
+repellently 1.875
+purposelessly -2.5
+noiselessly -3.125
+chirpily 3.125
+untruly -1.875
+abundantly 1.25
+bitter -3.125
+big -1.25
+in principle 1.875
+pliantly 2.5
+wherefore 0.625
+spiritedly 3.125
+diplomatically 1.875
+ideologically 2.5
+dishonourably -5.0
+displeasingly -5.0
+apologetically 2.5
+verily 1.25
+with success 1.875
+elaborately 1.875
+splendidly 3.4375
+fourfold -0.625
+vociferously 2.5
+immorally -4.375
+peevishly 2.5
+appreciatively 5.0
+admiringly 2.5
+productively 1.875
+bounteously 2.5
+visibly 1.25
+strongly 1.875
+bountifully 2.5
+showily 2.5
+precisely 2.5
+lazily -5.0
+anachronistically 2.5
+heavenward 0.625
+masochistically 2.5
+querulously 2.5
+reproducibly 2.5
+superlatively -0.625
+decoratively 1.875
+virtually -0.625
+shaggily 1.875
+synonymously 2.5
+entreatingly 2.5
+guiltily 1.875
+disputatiously 2.5
+spiritually 1.875
+satisfactorily 5.0
+like thunder -1.25
+meanderingly 2.5
+unilaterally 2.5
+loquaciously 2.5
+after hours -2.5
+erroneously 2.5
+fulsomely 2.5
+in no way 0.625
+pat 1.25
+uncommonly 1.875
+recognizably -0.625
+incorrectly 2.5
+impassively 2.5
+mayhap 0.625
+altogether 0.833335
+resentfully -5.0
+mundanely 2.8125
+belatedly -1.875
+at close range 1.875
+interestingly enough 2.5
+scarce 1.25
+timorously -5.0
+therefore 0.625
+gloomily -5.0
+never -5.0
+studiously 2.5
+there -0.2083335
+goddamned -2.5
+nonlexically -2.5
+unconstitutionally 2.5
+unchivalrously 2.5
+strenuously 3.125
+resolutely 1.875
+shortly 0.833335
+wholesomely 2.5
+spookily 3.125
+sensibly 3.125
+presentably 2.5
+demonstratively 1.875
+unmanly -3.75
+restively 2.5
+euphemistically 1.875
+bad -2.8125
+secretly 1.25
+mistakenly 2.5
+lethargically 3.125
+joylessly -5.0
+as expected -0.625
+gratis 1.25
+defiantly -5.0
+crazily 1.875
+dependably 2.5
+unenthusiastically 3.125
+inequitably 2.5
+sociobiologically 2.5
+normally 0.625
+bit by bit 1.875
+pictorially 1.875
+sort of -0.625
+helpfully 3.75
+immodestly 2.5
+empirically 2.5
+greatly 1.25
+cavalierly 1.875
+belike 0.625
+minimally -0.625
+quaintly 1.875
+confidingly 3.125
+without formality -1.25
+quite a 2.5
+deliriously 1.25
+legibly 2.5
+concisely 0.625
+amusingly 3.75
+closely 2.5
+savagely 2.5
+scholastically 0.625
+tactually -0.625
+since 0.833333333333
+exasperatingly 2.5
+icily 1.875
+agonizingly -1.875
+roguishly 0.9375
+lasciviously 3.125
+heinously -2.5
+tersely -0.625
+scarily -5.0 <except>
+ideally 3.125
+bareback -3.125
+polygonally 2.5
+fishily 2.5
+pensively -5.0
+incidentally 1.25
+disparagingly 2.5
+efficiently 2.5
+onerously 2.5
+loweringly -1.25
+cheerfully 5.0
+pompously 2.5
+unmistakably -1.5625
+kinda -0.625
+whole 2.5
+strangely 1.25
+surely 2.5
+sublimely 1.875
+stupendously -0.625
+greedily -5.0
+unnoticeably 1.25
+tacitly 1.25
+unsteadily -1.875
+mercifully 5.0
+illicitly 2.5
+fatuously -1.25
+pruriently 2.5
+contagiously 1.875
+animatedly 2.5
+each month -2.5
+protectively 5.0
+mordaciously 2.5
+grotesquely 2.5
+mandatorily 2.5
+creakingly 2.5
+devotedly 1.875
+without bias 1.875
+patently 3.125
+by the way 0.625
+incompetently 1.875
+negatively -2.1875
+week by week 0.625
+intently -1.25
+moderately 1.25
+prohibitively -0.625
+threateningly 2.5
+subserviently 2.5
+mortally 5.0
+impregnably 3.125
+showing emotion 1.875
+with empathy 3.125
+fashionably 1.875
+purposefully 1.875
+thermostatically 2.5
+in a similar way 1.875
+excruciatingly -1.875
+direfully 2.5
+heavenwards 0.625
+perceptually 1.875
+embarrassingly -5.0
+in general -2.5
+droopingly 1.875
+absentmindedly 3.125
+all over 2.5
+unobtrusively 2.5
+torturously -1.875
+gutturally 2.5
+awfully -5.0
+nobly 3.125
+inconceivably -0.625
+feasible 1.875
+gloweringly 2.5
+quiet -1.875
+longitudinally 0.833335
+tenaciously -1.875
+balefully 2.5
+sleeplessly 3.125
+smoothly 5.0
+legitimately 1.875
+succinctly 0.625
+foully 1.875
+discreditably -5.0
+linguistically 1.25
+aboveboard 3.125
+inventively 2.5
+suavely 2.5
+stingily 3.125
+identifiably 1.875
+slimly 2.5
+endearingly 5.0
+substantially 1.5625
+best 1.25
+diffusely 1.875
+impotently 1.875
+at the end 5.0
+unctuously 2.5
+definitely 1.25
+unfortunately -4.375
+pointlessly 2.5
+powerlessly 2.5
+historically 1.875
+trimly 2.5
+sidesplittingly 0.625
+in truth 2.5
+regretfully -1.875
+prudishly 2.5
+down 1.66666666666
+empathetically 5.0
+irresistibly -3.125
+nigh 5.0
+audibly 3.125
+sapiently 1.875
+neglectfully 2.5
+coolly 1.25
+incongruously 2.5
+good 4.0625
+dolefully -5.0
+toughly -1.875
+whereby -0.625
+nem con 1.875
+tactfully 3.75
+sooner 1.875
+piggishly 2.5
+disquietingly 3.125
+atypically 2.5
+dryly 1.25
+behind 4.16666666667
+for love or money 1.25
+narrowly 1.875
+viciously 2.5
+formlessly 2.5
+disregardless -3.125
+avariciously 1.875
+tangibly 1.875
+to that extent -0.625
+covetously -5.0
+immediately -1.25
+head over heels -1.875
+gracefully 5.0
+digitately 2.5
+excitingly 3.125
+pig-headedly -1.875
+demandingly 2.5
+sensuously 2.5
+grubbily 2.5
+rigorously 2.5
+foolishly -5.0
+clumsily 2.5
+gorgeously 3.75
+bonnily 2.5
+to a tolerable degre 2.5
+sketchily 1.875
+inexpediently 2.5
+devilish 1.875
+conventionally 1.875
+characteristically 0.625
+invidiously 3.125
+confidently 1.875
+thoughtlessly 2.8125
+imprecisely 1.875
+fatally -5.0
+unforgivingly -1.25
+somewhat 0.625
+reversibly 2.5
+from the heart 2.5
+ravingly 2.5
+overbearingly 2.5
+frenziedly 3.125
+ex tempore 1.25
+deferentially 3.125
+silently -5.0
+modestly 1.875
+sneakingly 2.5
+wishfully 2.5
+unarguably 2.5
+irretrievably 1.875
+monstrously -5.0
+pithy 2.5
+pedantically 2.5
+impenitently 2.5
+sheer -2.5
+showing contempt 3.125
+weekly -2.5
+cynically 2.5
+needs 2.5
+turgidly 2.5
+in an arch manner 0.625
+frighteningly -5.0
+belligerently -5.0
+incredulously 2.5
+shabbily 1.25
+regally 1.875
+ago 2.02380952381
+yet 5.0
+tightly 5.0
+by fits and starts 0.625
+in kind 1.875
+gravely 0.9375
+oftener 0.625
+prudently 3.125
+by -3.75
+dear 1.5625
+evasively 1.875
+respectably 2.8125
+buoyantly 3.125
+stagily 1.875
+inconsiderately 2.5
+any -0.625
+pretty much -0.625
+with pride 1.875
+astride -0.625
+wrongheadedly 2.5
+at random 1.875
+dead 2.5
+exhaustively 1.875
+off the cuff 1.25
+psychologically 0.625
+sine die -2.5
+gracelessly 1.5625
+ministerially 1.875
+worthily 3.125
+commensally 2.5
+conically 1.875
+likely 5.0
+strictly 2.5
+shrewishly 2.5
+gratuitously 1.875
+vapidly 2.5
+gloatingly -5.0
+cold-bloodedly 1.25
+effortlessly 1.875
+infelicitously 2.5
+outwardly 1.25
+sprucely 1.875
+proverbially 2.5
+undemocratically 2.5
+disruptively 1.875
+unwillingly -1.875
+baby-like -1.25
+generally -2.8125
+demurely 2.5
+nicely 2.5
+all 2.5
+expensively 3.125
+dialectically 2.5
+vauntingly 1.875
+hinderingly 2.5
+breathlessly 2.5
+impressively 3.125
+patchily 0.625
+as 3.33333333333
+in an elaborate way 1.875
+inordinately -2.5
+cognitively 1.875
+incautiously -3.125
+unconditionally -2.1875
+melodramatically 1.875
+badly -5.0
+hand to mouth -0.625
+newly 5.0
+no -2.5
+bombastically 2.5
+reputably 2.5
+touchingly 1.875
+with attention 3.125
+hospitably 2.5
+timidly -5.0
+bestially 2.5
+on 3.33333333333
+ceaselessly 1.25
+legally -1.25
+knee-high -1.25
+each day -2.5
+maybe 5.0
+in full swing 1.875
+concurrently -1.25
+snidely 2.5
+passably 0.625
+flamboyantly 3.125
+outlandishly 2.5
+in theory 1.875
+reverentially 5.0
+wisely 3.125
+in reply -0.625
+congenially 2.5
+unbelievably -1.875
+gradually 1.875
+on the sly 2.5
+poignantly 1.875
+posthumously -1.25
+unattractively 3.125
+aside -3.125
+idly 1.875
+uncouthly 1.875
+at a loss 1.25
+showing mercy 2.5
+a hundred times -1.25
+unthinking 2.5
+with speculation 2.5
+pathogenically 2.5
+mistrustfully -1.25
+at once -1.25
+ineptly 2.1875
+oddly enough 2.5
+inversely -3.125
+rollickingly 2.5
+gravitationally 2.5
+incessantly 1.25
+on the qt 1.25
+reciprocally -1.5625
+of course -0.625
+cloyingly 1.875
+equivocally 3.125
+uncomplainingly 0.625
+twofold -0.625
+frostily -3.125
+guardedly 1.875
+sometime -3.125
+corruptly 2.5
+noncompetitively 2.5
+profusely 1.25
+deathly 1.25
+smuttily 2.5
+intravenously 1.875
+dazedly 2.5
+more 5.0
+genealogically 1.875
+perfectly 5.0
+diabolically -3.125
+innocently 5.0
+hopelessly -5.0
+miserably -5.0
+everywhere 2.5
+obsessionally 2.5
+diagrammatically 1.875
+momentously 1.25
+abstemiously 2.5
+sharply 5.0
+loud 0.625
+shrilly 5.0
+presumptuously 2.5
+lightly 0.357143
+undesirably -2.5
+amply 1.5625
+demonstrably 3.125
+abominably -5.0
+ramblingly 1.875
+interchangeably 1.875
+invitingly 2.5
+appropriately 2.5
+implicitly -1.5625
+circularly 1.25
+in spades 1.25
+taxonomically 1.875
+complacently 2.5
+perilously 1.875
+slyly 2.5
+wherein 0.46875
+lest 0.625
+queerly 2.5
+less -5.0
+lawlessly 2.5
+intelligently 1.875
+swimmingly 1.875
+on paper 0.625
+dismally 2.5
+ill -2.708335
+properly speaking 3.125
+importantly 0.625
+bilaterally 2.5
+surpassingly 1.875
+andante 1.875
+with all respect 1.875
+wittily 2.5
+ad lib 1.25
+sidearm 2.5
+trickily 2.5
+unmindfully 1.875
+unsentimentally 2.5
+measurably -0.625
+with validity 2.5
+unattainably 0.625
+lingually 1.25
+satirically 1.875
+expeditiously 2.5
+drastically 1.875
+face-to-face 0.625
+dully -3.125
+furiously -5.0
+unable to help 1.875
+woodenly -1.25
+nimbly 3.75
+pungently -1.5625
+expansively 5.0
+how -0.625
+untimely 2.5
+inexactly 1.875
+sceptically 2.5
+denominationally 2.5
+racily 2.5
+nearby -3.75
+without doubt 0.833335
+reasonably 1.875
+despicably 1.875
+thrice 2.5
+basely 1.875
+disapprovingly 1.875
+hardly -5.0 <except>
+objectionably 1.875
+artlessly 2.5
+in short 0.625
+tenderly 5.0
+subcutaneously -0.625
+cutely 3.125
+little -0.625
+though 2.5
+circumspectly 2.5
+in public 0.625
+impracticably -0.625
+stridently 2.5
+improbably -3.75
+drearily 2.5
+by artificial means -4.375
+lovingly 5.0
+intricately 1.875
+hesitantly -5.0
+electrostatically 1.875
+with consideration 3.75
+technically 1.875
+rough -2.1875
+feudally 2.5
+imminently 2.5
+prosaically 1.875
+latterly -0.625
+one time 1.25
+person-to-person 1.25
+in a well mannered w 1.875
+aggressively 1.875
+like an amateur 2.5
+tetchily -2.5
+reprehensively 2.5
+scarcely 1.25
+fresh 1.25
+on purpose 1.875
+inconsistently 0.625
+pryingly -2.5
+unimaginatively 1.875
+ultra vires -0.625
+one-on-one 1.25
+every year -2.5
+rightly 1.875
+densely 2.1875
+theoretically 1.875
+lividly -5.0
+racially 1.25
+nearly 5.0
+artfully 2.5
+covertly 2.5
+yieldingly 3.125
+somnolently 2.5
+joyously 5.0
+forcibly 2.5
+ceremoniously 2.5
+red-handed 2.5
+displaying incompete 1.875
+apprehensively -5.0
+didactically 2.5
+benignly 1.875
+angrily -5.0
+day after day -1.875
+slanderously 1.25
+in restraint -3.125
+finely 2.5
+cleverly 3.125
+restrictively 2.5
+dripping -1.875
+corruptedly 2.5
+naively 3.125
+right 1.979165
+asymmetrically 2.5
+prophetically 2.5
+pathologically 1.875
+disproportionately -0.625
+deadly -0.833335
+expediently 1.875
+clinically 1.875
+huffily 2.5
+exponentially 2.5
+gamely 2.5
+coquettishly 2.5
+optically 1.875
+the right way 2.5
+from start to finish -1.25
+architecturally 0.625
+retentively 2.5
+sweetly -1.875
+inspirationally -1.25
+illegibly 2.5
+scandalously 2.5
+usually 0.625
+industriously 1.875
+every week -2.5
+ascetically 3.125
+unforgettably 1.875
+as luck would have i -1.25
+maturely 1.875
+willingly 2.5
+lavishly 1.875
+essentially 1.25
+meanspiritedly 2.5
+lastingly 2.5
+new 1.25
+in a heartfelt way 3.125
+doubtfully -5.0
+incognito 1.25
+dynamically 2.5
+obstreperously 1.25
+correspondingly 2.5
+repentantly -5.0
+incomparably -0.625
+by the bye 0.625
+dejectedly 2.5
+noticeably 1.875
+impolitely 2.5
+gleefully 5.0
+phlegmatically 2.5
+amazingly 5.0
+indecently -2.5
+fortuitously -1.25
+insubstantially -1.875
+without worrying 1.875
+argumentatively 2.5
+yesterday 5.0
+far -5.0
+arbitrarily 1.875
+enthusiastically 5.0
+worryingly -5.0
+mangily 2.5
+inalienably 2.5
+cordially 3.75
+particularly 0.625
+soaking -1.875
+often 5.0
+awkwardly -5.0
+craftily 2.5
+rebelliously 1.875
+fitly 2.5
+sunnily 3.125
+into the bargain -0.625
+screamingly 0.625
+through 0.2083335
+notably -1.25
+uncritically 2.5
+offensively -1.458335
+incurably -1.5625
+unmelodiously 2.5
+intellectually 2.5
+like sin -1.25
+methodically 2.5
+grumpily -2.5
+priggishly 2.5
+vulgarly 2.5
+thriftlessly 2.5
+laconically 1.25
+childishly 1.25
+respectfully 1.875
+securely 2.708335
+under control -3.125
+without showing resp 1.25
+ambiguously 3.125
+inside -0.9375
+advertently 3.125
+contrarily -3.125
+selflessly 2.5
+piping -1.875
+raucously 2.5
+formidably 2.5
+infernally -2.5
+gratefully 5.0
+fiscally 1.25
+to the contrary -3.125
+recently 0.625
+mindlessly 2.1875
+maniacally -0.625
+unluckily -4.375
+unpropitiously 2.5
+with efficiency 2.5
+resignedly -5.0
+winsomely 1.875
+hurriedly 1.875
+very much 1.25
+imprudently 2.5
+of necessity 2.5
+in the mind 3.125
+with hostility 2.5
+funnily enough 2.5
+discreetly 1.25
+greasily 2.5
+sardonically 3.125
+indeed 2.5
+friskily 1.875
+at least -1.875
+by choice 1.875
+blatantly 1.875
+assuredly -2.5
+irresolutely -1.875
+thinly -1.5625
+romantically 2.5
+most importantly 3.125
+unwarily -3.125
+soothingly 1.875
+stanchly 2.5
+skimpily 2.5
+unsymmetrically 2.5
+wilfully 2.5
+retroactively 2.5
+boisterously 2.5
+palmately 2.5
+square 1.5625
+mercilessly 2.5
+advisedly 1.875
+literally -0.625
+attractively 3.125
+healthily 2.5
+with ostentation 1.875
+excusably -0.625
+piquantly 2.5
+spectacularly 2.5
+almost 5.0
+as was common 3.125
+simperingly -2.5
+without sympathy 2.5
+at bottom -1.25
+none -2.5
+outstandingly 0.3125
+shakily -5.0
+unquietly 1.25
+saucily 2.5
+seriously 5.0
+futilely 1.875
+adaxially 2.5
+churlishly 2.5
+approvingly 3.125
+flimsily 1.25
+with many interrupti 0.625
+hydraulically 2.5
+menacingly 2.5
+symbiotically 2.5
+in the long run 2.5
+gently 5.0
+unexcitingly 2.5
+speculatively 2.5
+lucidly 2.5
+abortively 2.5
+frothily 2.5
+by chance 0.78125
+proudly 5.0
+perceptibly 1.875
+immaturely 1.875
+redly 0.625
+slam-bang 1.5625
+beyond any doubt 2.5
+irrationally 1.875
+above all 0.625
+cannily -1.25
+drippily 1.875
+insanely -1.875
+moistly 1.875
+functionally 1.25
+incontrovertibly 3.125
+exceedingly 0.625
+indifferently -5.0
+punishingly 1.875
+soberly 1.875
+daily 5.0
+sexually 3.125
+without concern 1.875
+wretchedly 2.5
+abstractedly 3.125
+stockily 1.875
+territorially 2.5
+noisily -5.0
+criminally 1.25
+with excitement 1.875
+bravely 5.0
+stylistically 3.125
+ignominiously -5.0
+leniently 1.875
+basically 1.25
+meanly -2.1875
+entirely 3.91156462587
+discouragingly 1.875
+observingly 3.125
+leastways -1.875
+relatively 0.510204081633
+immoderately 1.5625
+amicably 5.0
+wackily 1.875
+dashingly 2.5
+sneeringly 2.5
+gingerly 1.875
+in the end 2.5
+unremarkably 0.625
+axially 2.5
+inexcusably 0.3125
+nastily -3.125
+flagrantly 2.5
+like kings 1.875
+traitorously 2.5
+precariously 2.5
+licentiously 1.875
+delightedly -1.25
+every month -2.5
+unappealingly 2.5
+ideographically 2.5
+nutritionally 1.875
+drunkenly 2.5
+blindly -3.4375
+erotically 1.875
+inimitably 2.5
+humiliatingly -5.0
+skillfully 2.5
+receptively 1.875
+squeamishly 2.5
+informatively 2.5
+inexhaustibly 0.625
+heavenwardly 0.625
+cheekily 2.5
+with greater reason 0.625
+affectedly -2.5
+upstairs 3.125
+equally 5.0
+quickly 5.0
+vacantly 2.5
+haughtily 2.5
+egotistically 2.5
+illegitimately -1.875
+wastefully -1.25
+uncomparably -0.625
+repeatedly 5.0
+threefold -0.625
+stubbornly -1.875
+penetratingly 1.875
+geologically 1.875
+volubly 2.5
+straight off -2.5
+primly 2.5
+everyplace 2.5
+meritoriously 2.5
+multiplicatively 1.875
+immaculately 2.5
+mulishly -1.875
+gallantly 2.5
+freely 3.125
+all-fired -2.5
+disreputably 1.875
+doggedly -1.875
+philatelically 2.5
+manageably 1.875
+dowdily 2.5
+inquisitively 5.0
+pronto 2.5
+reticently 2.5
+indelibly 2.5
+curtly 1.875
+irately 2.5
+sagely 3.125
+in spite of appearan -1.25
+self-evidently 2.5
+idiomatically 1.875
+gruesomely 2.5
+precious -2.5
+coherently 1.875
+four times -0.625
+soullessly 2.5
+put differently 0.625
+brutishly 2.5
+superfluously 2.5
+multiply 1.25
+explosively 1.875
+originally 0.625
+out and away 1.25
+promisingly 2.5
+sociably 2.1875
+high 1.875
+frivolously 1.875
+very 5.0
+sensually 2.5
+statically 1.875
+likewise -0.2083335
+plaguily -2.5
+unequivocally 2.5
+to perfection 2.5
+heatedly 1.875
+specially 0.625
+stark -1.25
+shoddily 2.5
+off-hand 1.25
+charitably 2.5
+bilingually 2.5
+unutterably -0.625
+homogeneously 0.625
+learnedly 2.5
+balmily 1.875
+unrealistically 2.5
+not -5.0
+numbly 1.875
+every which way 1.875
+aimlessly 2.5
+deplorably -5.0
+now 3.7873108427
+mathematically 2.5
+syllabically 0.625
+improvidently 2.5
+narrow-mindedly 0.625
+as a formality -0.625
+hypocritically 2.5
+probably 5.0
+unjustifiably 0.625
+unfaithfully 2.5
+parasitically 3.125
+readily 1.5625
+slowly -5.0
+tete a tete -3.75
+mildly 1.25
+tremendously -2.5
+merrily 5.0
+already 2.5
+sturdily 1.875
+hands down 1.25
+really 5.0
+broadly -3.125
+treacherously 2.5
+successfully 5.0
+unmusically 2.5
+greyly 0.625
+primitively 2.5
+at length 1.875
+bloody -2.5
+reverently 5.0
+amorously 1.875
+hand in glove 1.875
+breezily 2.5
+polemically 1.875
+alliteratively 2.5
+binaurally 2.5
+obtrusively 2.5
+sanely 2.8125
+vaguely 0.625
+pinnately 1.25
+inadvisably 1.875
+advantageously 3.125
+unacceptably -0.625
+presently -0.625
+brashly 2.5
+immovably -2.5
+downwardly -0.625
+wherefor 0.625
+patronizingly 3.125
+equitably 2.5
+maliciously -5.0
+abstrusely -2.5
+gloriously 1.875
+truculently 2.1875
+ashamedly -2.5
+insidiously 2.5
+blankly 1.875
+inexorably 2.5
+startlingly 2.5
+intelligibly 1.875
+encouragingly 5.0
+ravishingly -0.625
+grouchily -2.5
+temporarily 2.72698875485
+infinitely 1.25
+unimpeachably 0.625
+apparently 2.8125
+with full force -2.5
+sternly -5.0
+slouchily 2.5
+bashfully -5.0
+extortionately -0.625
+divertingly 3.75
+slenderly 1.25
+enviously -5.0
+boylike -0.625
+bluffly 2.5
+believably 2.5
+chronologically 2.5
+paradoxically 2.5
+unappreciatively 2.5
+allegorically 2.5
+outspokenly 3.125
+bewitchingly 2.5
+unceasingly 1.25
+staidly 1.875
+over 3.33333333333
+underhandedly 2.5
+feelingly -2.5
+playfully 2.5
+cum laude 2.5
+comparably -0.625
+despitefully 1.875
+chaotically 1.5625
+unpatriotically 2.5
+limpidly 2.5
+once 0.4166665
+wafer-thin 0.625
+fantastically 2.5
+summa cum laude 3.75
+constructively 2.5
+reproachfully 2.5
+apart -0.625
+methodologically 2.5
+neer -3.75
+glibly -1.875
+meditatively 2.5
+unhelpfully 2.5
+indubitably 0.625
+disloyally 2.5
+judiciously 2.5
+downwards -0.625
+unassertively -5.0
+algebraically 2.5
+capriciously -1.25
+typically 1.875
+preposterously 1.875
+circumstantially 1.40625
+unreadably 2.5
+in hiding 0.625
+repellingly 1.875
+petulantly 2.5
+penetratively 1.875
+agreeably 3.125
+at most -0.625
+exquisitely 1.875
+in fiscal matters 1.25
+inconspicuously 1.25
+satisfyingly 5.0
+firm 1.25
+more than -2.5
+metaphorically 1.875
+evenhandedly 3.125
+radiantly 2.5
+cautiously 5.0
+selfishly -5.0
+tirelessly 0.625
+pacifically 5.0
+ahead of time -0.625
+at a time 0.625
+horribly -5.0
+doggo 0.625
+capably 3.125
+invariably 1.875
+headlong 0.625
+curiously 2.5
+unpardonably -0.625
+same 2.5
+sub rosa 1.25
+close 5.0
+marvellously 5.0
+injuriously -2.5
+for all practical pu 0.625
+alertly 2.5
+lackadaisically 1.875
+obligatorily 2.8125
+ineffectually 2.5
+summarily 1.25
+lukewarmly 2.5
+adversely 2.5
+considerably 1.25
+all the way -1.875
+near 5.0
+offstage -1.875
+riskily 1.875
+skeptically 2.5
+rhetorically 1.875
+carefully 5.0
+unhappily -2.1875
+tactlessly 1.875
+punctiliously 2.5
+today -0.625
+unachievably 0.625
+dutifully -0.625
+horrifyingly -5.0
+safely 5.0
+irresponsibly 1.25
+lengthily 1.875
+wonderfully 5.0
+provocatively 3.125
+windily 2.5
+murkily 2.5
+handily 1.5625
+tardily 1.25
+grayly 0.625
+in one ear 2.5
+still 5.0
+raffishly 2.5
+improperly -1.25
+single-handed -1.875
+off -1.66666666667
+rurally 1.875
+ecologically 2.5
+inhumanely 2.5
+thoroughly 4.77092877968
+why 0.625
+perpendicularly 1.25
+downhill -1.25
+voraciously 1.875
+relevantly 1.25
+unwantedly 1.875
+smoulderingly -2.5
+roughly -5.0
+recurrently 1.875
+for sure 2.5
+to both ears 2.5
+only 2.142857143
+miraculously 2.5
+colloidally 2.5
+comfortingly 2.5
+kind of -0.625
+understandably 1.875
+sarcastically 3.125
+histologically 0.625
+defensively 1.875
+inelegantly -1.25
+flexibly -1.25
+beastly 2.5
+arithmetically 2.5
+untypically 2.5
+wryly 2.5
+barefooted -1.25
+disingenuously 2.5
+high up 1.25
+elementarily 1.875
+benignantly 1.875
+judicially 1.875
+closer 0.625
+tearfully 1.875
+stickily 1.875
+fondly 5.0
+counteractively 2.5
+courteously 1.875
+in the least 2.5
+eerily 3.125
+frontwards 1.25
+collectedly 1.25
+tamely 1.875
+at all 2.5
+de jure -0.625
+caustically 2.5
+to the full 1.25
+confoundedly 2.5
+for certain 2.5
+well 5.0
+unsmilingly 2.5
+heels over head -1.875
+willfully 2.5
+wondrous 5.0
+strictly speaking 3.125
+neatly 5.0
+painlessly -3.125
+stuffily 2.5
+uncompromisingly 2.5
+torpidly 2.5
+haply -0.625
+indolently 2.5
+slightingly 2.5
+dichotomously 2.5
+atrociously 1.5625
+rakishly 2.5
+tawdrily 1.875
+virtuously 3.125
+appreciably -0.625
+in the head 3.125
+dottily 1.875
+shyly -5.0
+with kid gloves -2.5
+heedlessly -3.125
+specifically 1.875
+thermodynamically 2.5
+absently 3.125
+frugally 2.5
+hand to hand 1.25
+each week -2.5
+sympathetically 5.0
+affably 2.5
+combatively 1.875
+stoutly 2.5
+pessimistically -5.0
+telescopically 2.5
+unbelievingly 2.5
+unpalatably -1.25
+within reason 0.625
+fain 2.5
+maternally 1.25
+zestily 0.625
+fair 1.5625
+trenchantly 3.125
+in effect 3.125
+boiling -2.5
+inwardly 0.625
+unchangeably 2.5
+decidedly 1.25
+rapidly 5.0
+out of sight -1.25
+forgivingly 2.5
+menially 2.5
+warmly 5.0
+pleasantly 3.125
+proficiently 2.5
+regionally 1.875
+progressively -0.625
+parenthetically 2.5
+perkily 2.5
+quaveringly 1.875
+sooner or later -3.125
+highly 2.5
+steadily 2.5
+frequently 5.0
+briskly 3.125
+in vacuo -2.5
+best of all 4.375
+utterly 2.1875
+unwaveringly 1.25
+without favoring one 3.125
+speciously 2.5
+admittedly -1.25
+with modesty 1.875
+grudgingly 2.5
+clearly 5.0
+hypothalamically 2.5
+without bloodshed 1.875
+realistically 1.875
+without delay 2.5
+allegedly 0.625
+captiously 1.875
+darkly 1.25
+pleadingly 2.5
+oppressively -5.0
+at leisure 1.25
+plentifully 2.5
+discourteously 2.5
+authoritatively 1.875
+notoriously -0.625
+verbosely 2.5
+queasily 2.5
+compulsively 2.5
+benevolently 5.0
+prissily 2.5
+watchfully 3.125
+in good order 2.5
+magisterially 1.875
+blamelessly 3.125
+every inch -1.25
+shockingly -0.625
+heavily 0.875
+painstakingly 3.125
+laxly 1.875
+even 5.0
+nowadays -0.625
+passing 0.625
+ever 5.0
+deadpan 1.25
+overboard -1.25
+with wisdom 3.125
+crosswise -2.5
+glumly 1.875
+broad-mindedly 3.125
+vigilantly 3.125
+fiercely -5.0
+resourcefully 2.5
+in unison 0.4166665
+leastwise -1.875
+jauntily 1.875
+fine 2.1875
+thriftily 3.125
+astonishingly 5.0
+hellishly -2.5
+perspicuously 2.5
+usuriously -0.625
+ecstatically 2.5
+nonetheless -3.125
+toe-to-toe 1.25
+insomuch -0.625
+possessively 1.875
+climatically 1.875
+idyllically 2.5
+distressingly -5.0
+avidly 2.5
+unawares -2.291665
+rattling 1.25
+caressingly 2.5
+bloodlessly 1.875
+extravagantly 1.666665
+mellowly 2.5
+isotropically 2.5
+pell-mell 1.875
+metrically 1.25
+wide 0.3125
+snappishly -2.5
+alee 1.25
+iniquitously 2.5
+ulteriorly 2.5
+antithetically 2.5
+enjoyably 3.125
+adroitly 3.125
+at the same time -1.25
+just right 2.5
+persuasively 2.5
+competently 3.125
+woefully -5.0
+affectionately 1.875
+jovially 2.5
+madly -1.666666667
+wrongfully -0.625
+beneficially 5.0
+spinally -1.25
+supinely 1.875
+far and wide 1.875
+mirthfully 5.0
+ambitiously 3.125
+creakily 2.5
+staggeringly -2.5
+freshly 1.25
+per se 3.125
+sidelong -0.2083335
+unduly -0.625
+brusquely 2.5
+strikingly 1.875
+chock-a-block -1.25
+triumphantly 5.0
+unfavourably 1.875
+hideously -5.0
+teasingly 1.875
+allowably 2.5
+stertorously 1.875
+haptically -0.625
+dramatically 2.5
+tendentiously 2.5
+unqualifiedly -2.5
+a fortiori 0.625
+primarily 1.25
+seemingly 2.5
+feverishly -5.0
+faddishly 2.5
+o.k. 3.75
+ripely 1.25
+altruistically 2.5
+connubial 2.5
+hysterically -5.0
+destructively -1.875
+frantically -5.0
+unlawfully 2.5
+disappointingly 2.5
+self-righteously 2.5
+fast 5.0
+adoringly 0.625
+large 0.625
+unsparingly 2.5
+faultily 2.5
+deliberately 5.0
+solitarily -1.25
+favourably 5.0
+largo 0.625
+boldly 5.0
+deprecatively 2.5
+rightfully 5.0
+sententiously 2.5
+with conceit 2.5
+amiably 2.5
+uniquely 1.25
+demeaningly -5.0
+schematically 1.875
+unfeelingly 0.9375
+by all odds 1.25
+obviously 3.125
+in real time -2.5
+soon enough -3.125
+zestfully 0.625
+feebly 2.1875
+falsely 1.875
+unrecognisable 3.125
+asexually 2.5
+stylishly 1.875
+shiftily 1.875
+genially 2.5
+aloft 0.46875
+forgetfully 2.5
+usefully 2.5
+politely 5.0
+unconvincingly 2.5
+otherwise 2.5
+hatefully -5.0
+insuperably -0.625
+melodically 2.5
+stealthily -5.0
+periodically 2.5
+tiredly 2.5
+abusively 2.5
+wild 5.0
+pitilessly 2.5
+wolfishly 1.875
+snugly 0.3125
+ingeniously 3.125
+biochemically 2.5
+intolerably -0.625
+professedly -1.875
+eagerly 5.0
+in the same breath 0.625
+flirtatiously 2.5
+voluptuously 2.5
+no matter -3.125
+pluckily 2.5
+lingeringly -0.625
+conversationally 1.25
+precociously 2.5
+unfavorably 1.875
+with diplomacy 1.875
+goddamn -2.5
+manfully 1.25
+clear 1.5625
+short -1.40625
+clean -1.5625
+untidily 1.875
+inseparably -3.75
+harmfully -2.5
+gratingly 1.25
+for all the world 1.25
+standoffishly 2.5
+stiltedly 2.5
+perniciously 2.5
+trustfully 2.8125
+dazzlingly 5.0
+distinctly 0.625
+fretfully 2.5
+with reason 3.125
+unselfconsciously 2.5
+okay 3.75
+unsuitably 1.875
+effectually 2.5
+edgeways 1.25
+nostalgically 1.875
+lifelessly 1.875
+barebacked -3.125
+preferably 1.875
+solicitously 5.0
+unreservedly 2.5
+potentially 0.625
+imperceptibly 1.25
+self-conceitedly 2.5
+jeeringly 1.875
+distributively -3.125
+high-mindedly 3.125
+on a regular basis 1.875
+with concern 2.5
+undeniably -0.625
+self-consciously 5.0
+compactly 0.625
+to an adequate degre 2.5
+at one time 0.625
+sourly 1.875
+with moderation 1.875
+in so far -0.625
+steaming -1.875
+copiously 1.25
+offhand -2.1875
+fraudulently -2.5
+tropically 1.875
+tauntingly 1.875
+randomly 1.875
+smilingly 2.5
+annoyingly -1.25
+diffidently -5.0
+automatically 1.875
+vigorously 3.125
+unrecognizably 3.125
+musicologically 2.5
+nigher 0.625
+ruefully -5.0
+actively 1.875
+figuratively -0.625
+every so often -2.5
+humorlessly 2.5
+notwithstanding -3.125
+unshakably 1.875
+noncomprehensively 1.25
+wholeheartedly 2.5
+mentally 1.875
+showing bad manners 2.5
+also 5.0
+prettily 3.75
+slavishly 2.5
+squalidly 0.625
+close to 1.875
+wonderingly 1.875
+ignobly 2.5
+condescendingly 3.125
+prosily 2.5
+unknowingly -3.125
+in essence 1.5625
+loftily 1.875
+along 3.33333333333
+alone -3.93794252397
+questioningly 1.875
+delightfully 3.125
+provably 3.125
+without diplomacy 2.5
+without end 0.625
+ostentatiously 1.875
+always 5.0
+philosophically 2.5
+conceptually 1.875
+optionally 1.875
+coordinately 1.875
+enduringly 3.125
+inevitably 2.5
+day in day out -1.875
+for good 0.625
+dementedly 1.875
+penitently -5.0
+tragically 1.875
+drop-dead -2.5
+quite an 2.5
+two times -0.625
+aloof 2.5
+prodigally 1.5625
+sure as shooting 2.5
+aloud 1.66666666667
+by far 1.25
+remarkably 0.9375
+ungraciously -1.25
+doltishly 2.5
+fearfully -5.0
+practicably 1.875
+roaring -2.5
+ad libitum 1.25
+disadvantageously -1.875
+insensibly 1.875
+pitiably 3.75
+alas -4.375
+temperately 0.833335
+soundlessly -3.125
+brightly 5.0
+unconcernedly -5.0
+obsequiously 2.5
+insolently 2.5
+reflexly 1.875
+rewardingly 3.125
+no more 1.25
+coyly 2.5
+effectively 3.125
+middling 0.625
+loudly 5.0
+a lot 1.25
+chintzily 3.125
+unco -0.625
+forthrightly 0.625
+con brio 2.5
+unspeakably -0.625
+unenergetically 3.125
+unintelligibly 1.875
+poutingly 2.5
+factually 2.5
+unequally 1.875
+academically 1.875
+sensitively 2.5
+wearily -5.0
+thievishly 0.625
+dauntlessly 5.0
+dictatorially 1.875
+aright 2.5
+how come 0.625
+without consideratio 2.5
+stably 1.875
+jubilantly 5.0
+sincerely -1.875
+laudably 5.0
+around 0.25
+chromatically 0.625
+engagingly 1.875
+indefatigably 0.625
+instead -3.125
+significantly 1.875
+negligently 2.5
+singularly -0.625
+bewilderingly 1.875
+puckishly 3.125
+slap-bang 1.25
+undeservedly 2.5
+allegro 1.25
+disagreeably -2.5
+powerfully 5.0
+hundredfold -1.25
+disappointedly 2.5
+meekly 3.125
+obnoxiously -5.0
+sorely -1.5625
+slow 1.875
+manifestly 3.125
+contrastingly 1.875
+ingenuously 2.5
+brazenly 2.5
+right away -2.1875
+with convulsions 1.875
+offering protection 1.875
+flabbily 2.5
+sevenfold -0.625
+gaily 1.875
+even so -3.125
+refreshfully 3.75
+on the face of it 2.5
+disrespectfully 1.875
+upside down 1.875
+bacterially -0.625
+sufficiently -0.625
+inadequately -3.125
+telegraphically -0.625
+draggingly 2.5
+quizzically 1.875
+that much -0.625
+forcefully -1.875
+loyally 3.125
+permissibly 2.5
+tunefully 1.875
+with mercy 2.5
+enterprisingly 1.875
+organically 1.25
+assertively 2.5
+exorbitantly -0.625
+provokingly 3.125
+abroad 0.4166665
+individualistically 2.5
+comfortably 5.0
+approximately 1.875
+rotundly 2.5
+seldom -5.0 <except>
+piercingly -3.125
+obscenely -1.5625
+rashly 1.875
+scurrilously 2.5
+obsessively 2.5
+differently 2.5
+impatiently -5.0
+high-handedly 3.125
+inconsequentially -1.875
+straight 1.25
+unambiguously 1.875
+chastely 3.125
+waggishly 2.5
+ninefold -0.625
+gayly 5.0
+mournfully -5.0
+acceptably 2.5
+portentously 2.5
+ineffectively 2.5
+ardently 2.5
+overwhelmingly -3.125
+contemptibly 1.875
+unsatiably 0.9375
+showing wisdom 3.125
+cryptographically 2.5
+uninterestingly 3.125
+wickedly -3.125
+indefinitely 0.625
+listlessly 1.875
+revengefully -5.0
+scenically 0.625
+in other words 0.625
+analogously 1.875
+pitifully -0.625
+somberly 2.5
+to a great extent -0.625
+frumpily 2.5
+cantankerously -3.75
+irritably -5.0
+with longing 2.5
+after a fashion -1.875
+intransitively 2.5
+unscientifically -4.375
+before long -0.625
+grievously -5.0
+graciously 3.125
+sleepily -5.0
+scornfully 3.125
+alright 1.25
+disgracefully -5.0
+fully 4.28422681026
+indigenously 1.875
+chock -1.25
+derisively 3.125
+amuck -5.0
+sedulously 2.5
+venomously 2.5
+distinctively 1.25
+jaggedly -1.875
+heartily 3.75
+monthly 5.0
+intensely 1.25
+heartlessly -5.0
+offhanded -2.1875
+terrifically 5.0
+commercially 1.25
+keenly 2.5
+less than -2.5
+scienter -2.5
+grandiloquently 2.5
+superstitiously 2.5
+absurdly -1.25
+hastily 5.0
+submissively 2.5
+beyond measure -1.25
+god knows how 1.25
+across 0.833335
+ethically -1.25
+virulently 2.5
+providentially 3.125
+officially 5.0
+unnaturally -2.083335
+stunningly 2.5
+languidly 2.5
+worriedly 1.875
+fluently 2.5
+sombrely 2.5
+amain -1.875
+with competence 3.125
+absolutely 1.875
+harshly 1.25
+true -1.25
+identically 2.5
+nowise 0.625
+wanly 1.25
+to one ear 2.5
+avowedly -1.25
+with humour 2.5
+amok -5.0
+educationally 1.875
+cliquishly 2.5
+intermittently 2.5
+thoughtfully 5.0
+so to speak 1.875
+sometimes 5.0
+with sympathy 3.125
+imperially 1.875
+diagonally 1.875
+vitriolically 2.5
+actually 5.0
+genuinely 1.5625
+volumetrically 1.875
+selectively 2.5
+fucking 0.625
+regularly 5.0
+insensitively 2.5
+when 2.85714285714
+humanely 3.125
+in name only -2.5
+spuriously 1.25
+luridly 2.5
+in accord 1.25
+calumniously 1.25
+flat 1.25
+positively 1.25
+unworthily 1.875
+evilly -3.125
+unseasonably -3.75
+unwisely -4.375
+rhapsodically 2.5
+emphatically 1.25
+late -1.041665
+perennially 1.25
+commonly 0.625
+insipidly 1.875
+convulsively 1.875
+sagaciously 1.875
+insecurely 5.0
+assiduously 0.625
+uxoriously 3.125
+with humor 2.5
+exultantly 5.0
+tartly 1.875
+restfully 2.5
+scathingly 2.5
+betimes 3.125
+profoundly 1.25
+materialistically 2.5
+erectly 1.25
+incriminatingly 1.875
+cozily 2.5
+like a shot -2.5
+just about 1.875
+good and -1.25
+grungily 2.5
+in a beastly manner 2.5
+quantitatively 2.5
+allegretto 2.5
+mawkishly 1.875
+slickly -1.875
+blessedly 3.75
+a great deal 1.5625
+with great care 3.125
+now now -1.25
+carelessly -5.0
+at a premium 3.125
+repulsively -5.0
+obdurately -1.875
+inauspiciously 2.5
+monolingually 2.5
+stiffly 1.875
+insatiably 0.9375
+severely -2.291665
+tediously 2.5
+snootily 2.5
+simply 4.59183673471
+with confidence 1.875
+musingly 1.875
+unalterably 2.5
+wildly -5.0
+prodigiously 0.625
+dishonorably -5.0
+ebulliently 5.0
+calmly 5.0
+in the lurch -1.25
+remorselessly 2.5
+like hell 1.5625
+reprehensibly -2.5
+unbeknown -0.625
+in fact 2.5
+de facto 2.5
+extremely 1.25
+in apposition 2.5
+observably 1.25
+meaningfully 2.5
+popishly 2.5
+physiologically 0.625
+eventually 5.0
+therewithal -2.5
+without favouring on 3.125
+reassuringly 5.0
+focally 1.875
+week after week -1.875
+asleep -0.625
+cagily 2.5
+unceremoniously 1.875
+consistently 2.5
+informally 0.625
+shapelessly 2.5
+heroically 2.5
+devilishly -1.875
+happily 5.0
+lopsidedly 1.875
+busily 3.125
+nefariously -0.625
+under arms 0.625
+inappropriately 1.875
+hesitatingly -5.0
+perchance 0.625
+delusively 1.875
+however 3.5
+charily 1.875
+poetically 2.5
+physically -1.875
+rationally 1.875
+widely 1.25
+enormously 5.0
+to no degree 0.625
+punctually 5.0
+ethnically 2.5
+scantily -1.25
+haggardly 2.5
+uninformatively 2.5
+cunningly 2.8125
+privily 1.25
+ignorantly 3.125
+intimately 2.5
+hostilely -5.0
+too 5.0
+perceptively 3.125
+hotly 1.875
+on an irregular basi -1.25
+on faith 2.5
+compatibly 5.0
+as usual 3.125
+humourlessly 2.5
+paternally 2.5
+discursively 1.875

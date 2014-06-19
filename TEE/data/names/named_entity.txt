@@ -1,0 +1,209 @@
+walt disney studios 2.7885 4 1 2 5.0 -5.0
+jason 5.0 9 1 4 8.9 -1.1
+ron 2.45195217917 2 1 4 9.2 -0.8
+thomas 2.45195217917 2 1 4 8.8 -1.2
+steve 5.0 9 1 4 8.4 -1.6
+dalton 4.5833333335 11 1 3 7.9 -2.1
+humpback 2.7885 4 -1 -3 3.3 -6.7
+regulator lawmaker 3.86184969117 1 1 2 5.0 -5.0
+kutcher 3.86184969117 1 1 2 5.7 -4.3
+strikefrom 5.0 9 1 2 5.0 -5.0
+chinese 2.3333 7 1 3 6.9 -3.1
+student/teacher 1.3333 15 1 3 6.7 -3.3
+balenciaga 3.86184969117 1 1 4 10.0 -0.0
+thursday 2.7885 4 1 4 9.0 -1.0
+second-quarter 2.45195217917 2 1 3 7.5 -2.5
+account it -2.756916667 12 1 2 5.7 -4.3
+magic news donovan 5.0 9 1 2 5.0 -5.0
+th 5.0 9 1 3 7.8 -2.2
+mango 1.3333 15 1 4 9.0 -1.0
+proenza 3.86184969117 1 1 2 5.0 -5.0
+adua 2.45195217917 2 1 2 5.0 -5.0
+foreclosure 3.86184969117 1 1 2 5.0 -5.0
+telecom 2.45195217917 2 -1 -2 4.3 -5.7
+celtel 2.45195217917 2 1 2 5.0 -5.0
+murray 1.3333 15 1 4 8.6 -1.4
+google 1.3333 15 1 2 5.0 -5.0
+a330s 2.45195217917 2 1 2 5.0 -5.0
+ki-moon 1.3333 15 1 2 5.0 -5.0
+lg 3.86184969117 1 1 3 8.0 -2.0
+jacobs 3.86184969117 1 1 4 8.4 -1.6
+group 3.6 14 1 2 5.0 -5.0
+lifeline 2.7885 4 1 4 10.0 -0.0
+company user 2.45195217917 2 1 2 5.0 -5.0
+li 1.3333 15 1 2 5.0 -5.0
+reuters 2.7885 4 1 4 8.9 -1.1
+gonu 3.86184969117 1 1 4 10.0 -0.0
+chief investment 2.45195217917 2 1 2 5.0 -5.0
+bipartisan 3.6 14 -1 -2 4.0 -6.0
+songwriting 3.86184969117 1 1 4 9.3 -0.7
+curtis 4.5833333335 11 1 4 8.9 -1.1
+sterilization 3.86184969117 1 1 4 8.8 -1.3
+prime minister 3.6 14 1 3 7.3 -2.7
+she fantastic speech 1.3333 15 1 2 5.0 -5.0
+republican 2.3333 7 1 2 5.5 -4.5
+attorneys 2.3333 7 -1 -2 4.8 -5.2
+robbie 1.3333 15 1 4 9.0 -1.0
+chien-ming 5.0 9 1 4 8.3 -1.7
+james 5.0 9 1 4 8.1 -1.9
+costner 3.86184969117 1 1 3 7.4 -2.6
+societe generale 3.86184969117 1 1 2 5.0 -5.0
+forehand 5.0 9 1 2 5.7 -4.3
+arsenic 1.3333 15 1 2 5.0 -5.0
+oakland 5.0 9 1 3 7.0 -3.0
+earning 2.45195217917 2 1 3 7.9 -2.1
+nicole 2.7885 4 1 4 9.3 -0.7
+afp merkel 3.6 14 1 2 5.0 -5.0
+[':' 'n nom pl:turn' 'n nom sg:copper' 'n nom sg:robbie' 'n nom sg:coltrane' 'determiner:the'] 1.3333 15 1 2 5.0 -5.0
+didier 3.86184969117 1 1 4 8.8 -1.3
+galantine 1.3333 15 1 2 5.0 -5.0
+borsalino 3.86184969117 1 1 2 5.0 -5.0
+popular-but-slow 1.3333 15 1 2 5.0 -5.0
+baldwin 4.5833333335 11 1 4 8.5 -1.5
+matsushita 3.6 14 1 2 5.0 -5.0
+nicolas 3.6 14 1 3 7.8 -2.2
+gmo 4.5833333335 11 1 4 10.0 -0.0
+chechnya -2.756916667 12 -1 -4 1.4 -8.6
+dicillo 1.3333 15 1 2 5.0 -5.0
+richie 2.7885 4 1 4 8.8 -1.3
+homeland 1.3333 15 1 2 5.0 -5.0
+rainn 3.86184969117 1 1 4 9.5 -0.5
+kingdom 1.3333 15 1 2 5.0 -5.0
+rushmore 1.3333 15 1 4 9.6 -0.4
+cellphone 3.86184969117 1 -1 -2 4.3 -5.7
+forecast nar 2.45195217917 2 1 2 5.0 -5.0
+yglesia 1.3333 15 1 2 5.0 -5.0
+onlyu 3.86184969117 1 1 2 5.0 -5.0
+cedar 2.7885 4 1 4 9.3 -0.7
+75-nation 2.7885 4 1 2 5.0 -5.0
+world 2.7885 4 1 2 5.0 -5.0
+republicpresident 3.6 14 1 2 5.0 -5.0
+anti-terrorism 1.3333 15 1 2 5.0 -5.0
+mudslide 3.6 14 1 3 8.0 -2.0
+bank of england 2.45195217917 2 1 2 5.0 -5.0
+christine 3.86184969117 1 1 4 9.0 -1.0
+kennedy 3.6 14 1 2 5.1 -4.9
+miami 5.0 9 1 4 8.2 -1.8
+grizzly 2.7885 4 1 4 8.7 -1.3
+orlando 5.0 9 1 4 8.6 -1.4
+it piece 1.3333 15 1 3 7.3 -2.7
+afp australia 2.7885 4 1 2 5.0 -5.0
+problem he 2.45195217917 2 -1 -2 4.7 -5.3
+pico de orizaba 5.0 9 1 2 5.0 -5.0
+north south korea 3.86184969117 1 1 2 5.0 -5.0
+amos 4.5833333335 11 1 4 8.8 -1.2
+change genetics 3.9 6 1 2 5.0 -5.0
+minnesota wild 5.0 9 -1 -4 0.0 -10.0
+portuguese 3.86184969117 1 1 4 8.8 -1.2
+greenland 3.86184969117 1 1 4 9.0 -1.0
+senate 2.3333 7 1 3 6.8 -3.2
+branyan 5.0 9 1 2 5.0 -5.0
+great london 3.86184969117 1 1 4 10.0 -0.0
+afp advocate 2.7885 4 1 2 5.0 -5.0
+oscar de lrenta 2.9737802705 5 1 2 5.0 -5.0
+cleveland 5.0 9 1 4 9.5 -0.5
+cristina 3.6 14 1 4 9.4 -0.6
+guichot 3.86184969117 1 1 2 5.0 -5.0
+wireless 2.45195217917 2 1 2 5.6 -4.4
+santonio 5.0 9 1 4 10.0 -0.0
+caribbean 3.86184969117 1 1 4 9.2 -0.8
+willis 3.86184969117 1 1 4 8.4 -1.6
+rhino 3.86184969117 1 1 4 8.8 -1.2
+loversagainst 3.86184969117 1 1 2 5.0 -5.0
+leader 3.6 14 1 2 5.0 -5.0
+permira 3.86184969117 1 1 2 5.0 -5.0
+car/who 1.3333 15 -1 -3 3.6 -6.4
+annan 3.6 14 1 3 6.7 -3.3
+factory-direct 1.3333 15 1 2 5.0 -5.0
+bilis 4.5833333335 11 1 4 10.0 -0.0
+spider-man 2.7885 4 1 4 8.3 -1.7
+corp 3.86184969117 1 1 2 6.0 -4.0
+dalmatian 1.3333 15 1 4 10.0 -0.0
+rodham 3.6 14 1 4 10.0 -0.0
+backstrom 5.0 9 1 2 5.0 -5.0
+obj 1.3333 15 1 4 10.0 -0.0
+asimov 4.5833333335 7 1 4 9.7 -0.3
+hoenig 2.45195217917 2 1 2 5.0 -5.0
+schouler 3.86184969117 1 1 2 5.0 -5.0
+magic news 5.0 9 1 2 5.0 -5.0
+philadelphidaily news 2.45195217917 2 1 2 5.0 -5.0
+new york yankees 5.0 9 -1 -3 3.5 -6.5
+glowering 3.6 14 1 2 5.0 -5.0
+commission iwc risk 3.86184969117 1 1 2 5.0 -5.0
+grammy 3.86184969117 1 1 4 8.7 -1.3
+american medical association 0 0 1 2 5.0 -5.0
+shinzo 3.6 14 1 4 10.0 -0.0
+washington 2.3333 7 1 3 7.6 -2.4
+united states 4.5833333335 11 1 3 7.1 -2.9
+drama-comedy 1.3333 15 1 4 10.0 -0.0
+widower 1.3333 15 1 4 10.0 -0.0
+parton 3.86184969117 1 1 4 9.2 -0.8
+burton 1.3333 15 1 4 8.6 -1.4
+sox 5.0 9 1 3 6.1 -3.9
+yar 2.45195217917 2 1 4 8.6 -1.4
+lebron 5.0 9 1 3 7.1 -2.9
+freddie mac 3.86184969117 1 1 2 5.0 -5.0
+al-qaida -2.756916667 12 -1 -2 4.0 -6.0
+bangladesh 1.3333 15 1 4 10.0 -0.0
+authority tuesday police 3.6 14 1 2 5.0 -5.0
+humrights watch -2.756916667 12 1 2 5.0 -5.0
+mccartney 3.86184969117 1 1 3 7.3 -2.7
+brazilian 3.86184969117 1 1 4 9.4 -0.6
+maria 5.0 9 1 4 9.0 -1.0
+['determiner:the' 'n gen:government'] 3.6 14 1 2 5.0 -5.0
+backhand 5.0 9 1 3 6.1 -3.9
+osama bin laden 2.3333 7 -1 -3 3.8 -6.2
+fabio 5.0 9 1 4 8.6 -1.4
+insurer 2.45195217917 2 1 4 10.0 -0.0
+clampdown 2.45195217917 2 1 2 5.0 -5.0
+olmert 3.6 14 1 2 5.0 -5.0
+aslkjdlksajdsajd 1.3333 15 1 2 5.0 -5.0
+dsad 1.3333 15 1 2 5.0 -5.0
+lionsgate 2.7885 4 1 2 5.0 -5.0
+no-hit 5.0 9 1 3 6.7 -3.3
+chicken columbus 3.86184969117 1 1 2 5.0 -5.0
+shot mph 5.0 9 1 2 5.0 -5.0
+assd 1.3333 15 -1 -4 0.0 -10.0
+it place 1.3333 15 1 3 7.2 -2.8
+eddie 1.3333 15 1 4 9.1 -0.9
+damn that yk bug science 0 0 1 2 5.0 -5.0
+jan. 2.45195217917 2 1 4 9.0 -1.0
+fluminense 5.0 9 1 2 5.0 -5.0
+lynx 2.7885 4 1 4 8.8 -1.2
+imran 3.55 15 1 3 8.0 -2.0
+planthat 3.9 6 1 2 5.0 -5.0
+top in 1.3333 15 1 3 7.9 -2.1
+carver 1.3333 15 1 4 9.0 -1.0
+moore 1.3333 15 1 4 8.4 -1.6
+frederick 3.86184969117 1 1 3 6.1 -3.9
+chan 1.3333 15 1 2 5.0 -5.0
+double-team 5.0 9 1 4 9.0 -1.0
+inc 3.86184969117 1 1 3 7.7 -2.3
+palestinian 1.3333 15 1 3 6.4 -3.6
+us 3.6 14 1 4 8.2 -1.8
+figure number 2.45195217917 2 1 2 5.0 -5.0
+glacier 3.6 14 1 2 5.0 -5.0
+tim 5.0 9 1 4 8.8 -1.2
+mccollough 3.86184969117 1 1 2 5.0 -5.0
+kenyan -2.756916667 12 1 3 7.5 -2.5
+san antonio 5.0 9 1 3 7.4 -2.6
+kamchatka peninsula 3.86184969117 1 1 2 5.0 -5.0
+'s 1.3333 15 1 4 9.7 -0.3
+ubs 3.6 14 1 2 5.0 -5.0
+dow jones 2.45195217917 2 1 2 5.0 -5.0
+william 3.6 14 1 4 8.7 -1.3
+sorenstam 5.0 9 1 2 5.0 -5.0
+massachusetts 2.9737802705 5 1 2 5.3 -4.7
+ashton 3.86184969117 1 1 4 9.0 -1.0
+stan 2.7885 4 1 4 8.2 -1.8
+jackson 1.3333 15 1 4 8.8 -1.2
+pope 2.3333 7 1 3 7.3 -2.7
+djokovic 5.0 9 1 4 10.0 -0.0
+payne 1.3333 15 1 3 7.3 -2.7
+natalie 3.86184969117 1 1 4 9.2 -0.8
+stem-cell 4.5833333335 11 -1 -2 4.7 -5.3
+gheorghe 5.0 9 1 4 10.0 -0.0
+navy 2.3333 7 1 3 7.4 -2.6
+microsoft 1.3333 15 1 2 5.0 -5.0
+resale 2.45195217917 2 1 2 5.0 -5.0
+weta 3.86184969117 1 1 4 10.0 -0.0
