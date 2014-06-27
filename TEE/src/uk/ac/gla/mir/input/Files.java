@@ -3,34 +3,23 @@ package uk.ac.gla.mir.input;
 import java.io.*;
 import java.util.zip.*;
 
-/* 
- * The Original Code is Files.java.
- * From Terrier - Terabyte Retriever
- * Webpage: http://ir.dcs.gla.ac.uk/terrier
- * Contact: terrier{a.}dcs.gla.ac.uk
- * University of Glasgow - Department of Computing Science
- * http://www.ac.gla.uk
- *
- * The contents of this file are subject to the Mozilla Public License
- * Version 1.1 (the "License"); you may not use this file except in
- * compliance with the License. You may obtain a copy of the License at
- * http://www.mozilla.org/MPL/
- *
- * Software distributed under the License is distributed on an "AS IS"
- * basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See
- * the License for the specific language governing rights and limitations
- * under the License.
- *
- *
- * The Original Code is Copyright (C) 2004-2008 the University of Glasgow.
- * All Rights Reserved.
- *
- * Contributor(s):
- *   Gianni Amati <gba{a.}fub.it> (original author)
- *   Vassilis Plachouras <vassilis{a.}dcs.gla.ac.uk>
- *   Ben He <ben{a.}dcs.gla.ac.uk>
- *   Craig Macdonald <craigm{a.}dcs.gla.ac.uk>
+/**
+ * Copyright 2014, The University of Glasgow
+ * 
+ * This file is part of TEE.
+ * TEE is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ * 
+ * TEE is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ * You should have received a copy of the GNU General Public License
+ * along with TEE.  If not, see <http://www.gnu.org/licenses/>.
  */
+
 public class Files {
 
 	public static BufferedReader openFileReader(File file) throws IOException
