@@ -83,12 +83,14 @@ public class Entity
 					    		
 		public void print()
 		{
-			System.out.print("( name : "+name);
+			if(!name.isEmpty())
+				System.out.print(" name : "+name);
 			if(!type.equalsIgnoreCase(""))
 				System.out.print(" , type : "+type);
+			if(!attributes.isEmpty()){
 				System.out.print(" , attributes : ");
 				printattributes();
-			System.out.print(" )");
+			}
 		}
 		
 		public String toString(){
@@ -97,11 +99,12 @@ public class Entity
 			msg.append("( name : "+name);
 			if(!type.equalsIgnoreCase(""))
 				msg.append(" , type : "+type);
-			
-			msg.append(" , valence : " + valence);
-
-			msg.append(" , attributes : ");
-			msg.append( getAttributes() );
+			if(valence!=0)
+				msg.append(" , valence : " + valence);
+			if(!attributes.isEmpty()){
+				msg.append(" , attributes : ");
+				msg.append( getAttributes() );
+			}
 			msg.append(" )");
 			
 			return msg.toString();

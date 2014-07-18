@@ -1,0 +1,121 @@
+package uk.ac.gla.mir.triplets;
+
+import java.util.ArrayList;
+import edu.stanford.nlp.trees.Tree;
+import uk.ac.gla.mir.entity.Entity;
+
+/**
+ * Copyright 2014, The University of Glasgow
+ * 
+ * This file is part of TEE.
+ * TEE is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ * 
+ * TEE is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ * You should have received a copy of the GNU General Public License
+ * along with TEE.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+public class Triplet implements Comparable<Triplet>
+{
+	public Integer index;
+	public Entity verb;
+	public Entity subject;
+	public Entity object;
+	public String toDependancy = "";
+	public String andDependancy = "";
+	public String butDependancy = "";
+	public String notToDependancy = "";
+	public Entity lastNP;
+	public Tree verbTree;
+	public Tree subjectTree;
+	public Tree objectTree;
+	public double verbObjectVal;
+	public boolean affect = false;
+	
+	public Triplet()
+	{
+		verb = new Entity();
+		subject = new Entity();
+		object = new Entity();
+		verbObjectVal = 0.0;
+	}
+	
+	public Triplet(Entity a,Entity b, Entity c)
+	{
+		verb = a;
+		subject = b;
+		object = c;
+		verbObjectVal = 0.0;
+	}
+	
+	public void print()
+	{
+		System.out.print(" , Subject = ");
+		subject.print();
+		System.out.print("{ Verb = ");
+		verb.print();
+		System.out.print(" , Object = ");
+		object.print();
+		System.out.println(" }");
+	}
+	
+	public String toString(){
+		
+		StringBuilder s = new StringBuilder("\nSubject: " + subject.name + "  : " + subject.attributes + 
+				"\n");
+		if(!verb.isEmpty()){
+			s.append("Predicate: "+verb.name);
+			if(!verb.attributes.isEmpty())
+				s.append(" : "+  verb.attributes+"\n");	
+		}
+		if(!object.isEmpty()){
+			s.append("Object: "+object.name);
+			if(!object.attributes.isEmpty())
+				s.append(" : "+ object.attributes);	
+		}
+		if(!andDependancy.isEmpty())
+			s.append("\nand-Dependancy: "+ andDependancy);
+		if(!butDependancy.isEmpty())
+			s.append("\nbutDependancy: "+ butDependancy);
+		if(!notToDependancy.isEmpty())
+			s.append("\nnoToDependancy: "+ notToDependancy);
+		if(!toDependancy.isEmpty())
+			s.append("\nToDependancy: "+ toDependancy);
+		return s.toString();
+	}
+
+	public boolean isEmpty() {
+		return subject.isEmpty() && verb.isEmpty() && object.isEmpty();
+	}
+
+	private ArrayList<String> emotions;
+	public void setEmotions(ArrayList<String> tripletEmo) {
+		emotions = tripletEmo;
+	}
+	
+	public ArrayList<String> getEmotions() {
+		return emotions;
+	}
+
+	public void addEmotions(ArrayList<String> tmp) {
+		if( emotions == null )
+			emotions =tmp;
+		else 
+			emotions.addAll( tmp );
+	}
+
+	public int compareTo(Triplet o) {		
+		return this.index.compareTo(o.index);
+	}
+
+	@Override
+	public int hashCode() {
+		return super.hashCode();
+	}
+}

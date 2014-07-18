@@ -35,7 +35,6 @@ public class Triplet implements Comparable<Triplet>
 	public Tree verbTree;
 	public Tree subjectTree;
 	public Tree objectTree;
-	public double valence;
 	public double verbObjectVal;
 	public boolean affect = false;
 	
@@ -44,7 +43,6 @@ public class Triplet implements Comparable<Triplet>
 		verb = new Entity();
 		subject = new Entity();
 		object = new Entity();
-		valence = 0.0;
 		verbObjectVal = 0.0;
 	}
 	
@@ -53,7 +51,6 @@ public class Triplet implements Comparable<Triplet>
 		verb = a;
 		subject = b;
 		object = c;
-		valence = 0.0;
 		verbObjectVal = 0.0;
 	}
 	
@@ -69,17 +66,35 @@ public class Triplet implements Comparable<Triplet>
 	}
 	
 	public String toString(){
-		return 
-		"\nIndex : " + index + 
-		"\nSubject: " + subject.name + "  : " + subject.valence+ " : " + subject.attributes + 
-		"\n"+"Predicate: "+verb.name+" : "+verb.valence + " : " + verb.attributes+"\n"+
-		"Object: "+object.name+" : "+object.valence+ " : " + object.attributes + 
-		"\nTriplet Valence: " + this.valence + 
-		"\nand-Dependancy: "+ andDependancy+
-		"\nbutDependancy: "+ butDependancy+
-		"\nnoToDependancy: "+ notToDependancy+
-		"\nToDependancy: "+ toDependancy+
-		"\nLastNoun:"+lastNP+"\n"+emotions;
+		
+		StringBuilder s = new StringBuilder();
+		if(!subject.isEmpty()){
+			s.append("\nSubject: " + subject.name);
+			if(!subject.attributes.isEmpty())
+				s.append("  : " + subject.attributes);
+			s.append("\n");
+		}
+		if(!verb.isEmpty()){
+			s.append("Predicate: "+verb.name);
+			if(!verb.attributes.isEmpty())
+				s.append(" : "+  verb.attributes);	
+			s.append("\n");
+		}
+		if(!object.isEmpty()){
+			s.append("Object: "+object.name);
+			if(!object.attributes.isEmpty())
+				s.append(" : "+ object.attributes);
+			s.append("\n");
+		}
+		if(!andDependancy.isEmpty())
+			s.append("and-Dependancy: "+ andDependancy+"\n");
+		if(!butDependancy.isEmpty())
+			s.append("butDependancy: "+ butDependancy+"\n");
+		if(!notToDependancy.isEmpty())
+			s.append("noToDependancy: "+ notToDependancy+"\n");
+		if(!toDependancy.isEmpty())
+			s.append("ToDependancy: "+ toDependancy+"\n");
+		return s.toString();
 	}
 
 	public boolean isEmpty() {
